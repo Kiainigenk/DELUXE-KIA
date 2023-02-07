@@ -1,4 +1,4 @@
-module github.com/bep/gallerydeluxe_starter
+module https://github.com/Kiainigenk/DELUXE-KIA
 
 go 1.19
 
